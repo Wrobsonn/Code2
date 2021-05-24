@@ -1,0 +1,2 @@
+
+void kwadrat(float a);

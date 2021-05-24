@@ -1,0 +1,2 @@
+
+void szescian(float b);
